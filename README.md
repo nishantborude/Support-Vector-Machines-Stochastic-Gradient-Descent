@@ -1,4 +1,6 @@
-## Support-Vector-Machines-Stochastic-Gradient-Descent
+## CSE 512 Machine Learning
+
+### Support-Vector-Machines-Stochastic-Gradient-Descent
 
 Implementation of multiclass SVM using stochastic gradient descent
 
